@@ -24,3 +24,8 @@ handler.py
 companycodeset.py
 company_details.py
 venv
+working
+src/__pycache__
+app.py
+.env
+env.json
