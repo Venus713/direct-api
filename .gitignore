@@ -20,7 +20,6 @@ var/
 .serverless
 test.py
 response.py
-handler.py
 companycodeset.py
 company_details.py
 venv
